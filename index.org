@@ -1,3 +1,7 @@
-#+TITLE: Personal page of Gonzalo G. Peraza Mues
+#+TITLE: Index
+#+Author: BotAnihilator
+
 
 To be updated.
+
+here is a link: [[file:blog.org][BLOG]]
